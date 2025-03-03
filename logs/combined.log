@@ -1,0 +1,7 @@
+{"level":"info","message":"Server running on port 5000","timestamp":"2025-03-03T06:03:35.632Z"}
+{"level":"info","message":"GET /api/artists/search?q=Eminem","timestamp":"2025-03-03T06:04:29.112Z"}
+{"level":"info","message":"GET /api/songs/Eminem","timestamp":"2025-03-03T06:04:29.382Z"}
+{"level":"error","message":"Error fetching song by ID: Request failed with status code 400","timestamp":"2025-03-03T06:04:29.647Z"}
+{"level":"error","message":"Error fetching song by ID: Failed to fetch song details","timestamp":"2025-03-03T06:04:29.649Z"}
+{"level":"error","message":"Error: Failed to fetch song details","timestamp":"2025-03-03T06:04:29.651Z"}
+{"level":"info","message":"GET /api/artists/search?q=Eminem","timestamp":"2025-03-03T06:04:39.328Z"}
